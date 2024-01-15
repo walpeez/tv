@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.epgitalia.tv/guidexz,http://www.epgitalia.tv/guide2"
+#EXTM3U url-tvg="http://www.epgitalia.tv/guide2"
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
