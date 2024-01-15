@@ -68,7 +68,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Rai",Rai 5
+#EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-name="Rai 5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Rai",Rai 5
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
