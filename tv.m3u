@@ -2,17 +2,17 @@
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="Rai1.it" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-name="Rai 2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-name="Rai 3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
 http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
