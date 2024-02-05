@@ -1,4 +1,4 @@
-#EXTM3U  player-buffer="2" url-tvg=""
+#EXTM3U  player-buffer="2" url-tvg="http://www.epgitalia.tv/gzip"
 
 #KODIPROP:inputstream.adaptive.file_type=m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0
