@@ -1,0 +1,418 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png" group-title="Rai",Rai 1
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="Rai2.it" tvg-chno="2" tvg-name="Rai 2" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png" group-title="Rai",Rai 2
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-chno="3" tvg-name="Rai 3" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png" group-title="Rai",Rai 3
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="Rete4.it" tvg-chno="4" tvg-name="Rete 4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rete4.png" group-title="Mediaset",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-chno="5" tvg-name="Canale 5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/canale5.png" group-title="Mediaset",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="Italia1.it" tvg-chno="6" tvg-name="Italia 1" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia1.png" group-title="Mediaset",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="La7.it" tvg-chno="7" tvg-name="La7" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7.png" group-title="Altro",LA7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+
+#EXTINF:-1 tvg-id="Tv8.it" tvg-chno="8" tvg-name="TV8" tvg-name="TV8" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv8.png" group-title="Sky",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="Nove.it" tvg-chno="9" tvg-name="Nove" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/nove.png" group-title="Discovery",NOVE
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-name="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="GF1"  tvg-logo="https://github.com/walpeez/tv/raw/main/gf1.png" group-title="Mediaset",GF1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="GF2"  tvg-logo="https://github.com/walpeez/tv/raw/main/gf2.png" group-title="Mediaset",GF2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="GF+1"  tvg-logo="https://github.com/walpeez/tv/raw/main/gf%2B1.png" group-title="Mediaset",GF +1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="Rai4.it" tvg-chno="21" tvg-name="Rai 4" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png" group-title="Rai",Rai 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-chno="22" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/iris.png" group-title="Mediaset",Iris
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="Rai5.it" tvg-chno="23" tvg-name="Rai 5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png" group-title="Rai",Rai 5
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-chno="24" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png" group-title="Rai",Rai Movie
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-chno="25" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png" group-title="Rai",Rai Premium
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Sky",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="27" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png" group-title="Mediaset",Twenty Seven
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-chno="28" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tv2000.png" group-title="Altro",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 tvg-id="LA7D.it" tvg-chno="29" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la7d.png" group-title="Altro",LA7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
+#EXTINF:-1 tvg-id="LA5.it" tvg-chno="30" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/la5.png" group-title="Mediaset",La 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="RealTime.it" tvg-chno="31" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/realtime.png" group-title="Discovery",Real Time
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QVC.it" tvg-chno="32" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/qvc.png" group-title="Altro",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-chno="33" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/foodnetwork.png" group-title="Discovery",Food Network
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine34.it" tvg-chno="34" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cine34.png" group-title="Mediaset",Cine34
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Focus.it" tvg-chno="35" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/focus.png" group-title="Mediaset",FOCUS
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-chno="36" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Radio",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="WarnerTV.it" tvg-chno="37" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/warnertv.png" group-title="Discovery",Warner TV
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GialloTV.it" tvg-chno="38" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/giallo.png" group-title="Discovery",Giallo
+https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-chno="39" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/topcrime.png" group-title="Mediaset",Top Crime
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Boing.it" tvg-chno="40" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/boing.png" group-title="Mediaset",Boing
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="K2.it" tvg-chno="41" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/k2.png" group-title="Discovery",K2
+https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-chno="42" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png" group-title="Rai",Rai Gulp
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-chno="43" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png" group-title="Rai",Rai Yoyo
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="Discovery",Frisbee
+https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="Mediaset",Cartoonito
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Super.it" tvg-chno="47" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/super.png" group-title="Altro",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-chno="48" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png" group-title="Rai",Rai News 24
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Italia2.it" tvg-chno="49" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/italia2.png" group-title="Mediaset",Italia 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Sky",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Mediaset",TGCOM 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.it" tvg-chno="52" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/dmax.png" group-title="Discovery",DMAX
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-chno="54" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png" group-title="Rai",Rai Storia
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-chno="55" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/mediasetextra.png" group-title="Mediaset",Mediaset Extra
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="Home&GardenTV.it" tvg-chno="56" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/homegardentv.png" group-title="Discovery",HGTV - Home&Garden
+https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-chno="57" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png" group-title="Rai",Rai Scuola
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="RaiSport+HD.it" tvg-chno="58" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png" group-title="Rai",Rai Sport + HD
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="MotorTrendTV.it" tvg-chno="59" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/motortrend.png" group-title="Discovery",Motor Trend
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Altro",Sportitalia
+https://sportitaliaamd.akamaized.net/live/Sportitalia/hls/F59D8EB0332E783633CDDE8E265844975635D24F/index.m3u8
+
+#EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" group-title="Altro",Donna TV
+https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8
+
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Altro",Supertennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+
+#EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png" group-title="Altro",ALMA TV
+https://almatv.grupposciscione.knoxstreaming.com/live/1080p/livestream_def.m3u8
+
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="66" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Radio",Radio 105 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="R101TV.it" tvg-chno="67" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" group-title="Radio",R101 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="BOMChannel.it" tvg-chno="68" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/bomchannel.png" group-title="Altro",BOM CHANNEL
+https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-chno="69" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/deejaytv.png" group-title="Radio",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-chno="70" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Radio",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1 tvg-id="PadrePioTV.it" tvg-chno="145" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png" group-title="Altro",Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Radio",RADIO KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="Rai4K.it" tvg-chno="101" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="Rai",Rai 4K (HbbTV)
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+
+#EXTINF:-1 tvg-id="RaiRadio2.it" tvg-chno="202" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="Radio",Rai Radio 2 Visual
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RTL102.5News.it" tvg-chno="233" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Radio",RTL 102.5 News
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="VirginRadio.it" tvg-chno="257" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" group-title="Radio",VIRGIN RADIO
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+#EXTINF:-1 tvg-id="RadioFrecciaTV.it" tvg-chno="258" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiofrecciatv.png" group-title="Radio",RADIOFRECCIA
+https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="ByoBlu.it" tvg-chno="262" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/byoblu.png" group-title="Altro",Byoblu
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rds" tvg-chno="265" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rdssocialtv.png" group-title="Radio",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+
+#EXTINF:-1 tvg-id="RadioZeta.it" tvg-chno="266" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiozetatv.png" group-title="Radio",RADIO ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="RadioCapitalTv.it"  tvg-chno="713" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiocapitaltv.png" group-title="Radio",Radio Capital TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="M2OTv.it" tvg-chno="715" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiom2otv.png" group-title="Radio",M2O TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RadioMontecarlo.it" tvg-chno="772" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiomontecarlotv.png" group-title="Radio",Radio Montecarlo TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="RTVSanMarino.it" tvg-chno="831" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtvsanmarino.png" group-title="Radio",RTV San Marino
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b2192000_slita.m3u8
+
+#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiotvseriea.png" group-title="Radio",Radio TV Serie A con RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8#EXTM3U
+
+
+
+
+
+
+
+#EXTINF:105 tvg-id="reality-pluto-tv" tvg-name="Reality – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/tPEOeTk.png" radio="" group-title="plutotv", Reality – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/reality-pluto-tv/stream.m3u8
+
+#EXTINF:106 tvg-id="super-brothers-and-sisters-pluto-tv" tvg-name="Super! Brothers and Sisters – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/KSQvVye.png" radio="" group-title="plutotv", Super! Brothers and Sisters – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/super-brothers-and-sisters-pluto-tv/stream.m3u8
+
+#EXTINF:107 tvg-id="film-pluto-tv" tvg-name="Film – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/QeFc7F3.png" radio="" group-title="plutotv", Film – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/film-pluto-tv/stream.m3u8
+
+#EXTINF:108 tvg-id="sci-fi-pluto-tv" tvg-name="Sci-Fi – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/5B94N8g.png" radio="" group-title="plutotv", Sci-Fi – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/sci-fi-pluto-tv/stream.m3u8
+
+#EXTINF:110 tvg-id="film-azione-pluto-tv" tvg-name="Film Azione – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/ZmAuf3H.png" radio="" group-title="plutotv", Film Azione – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/film-azione-pluto-tv/stream.m3u8
+
+#EXTINF:115 tvg-id="film-romantici-pluto-tv" tvg-name="Film Romantici – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/sHg0bZc.png" radio="" group-title="plutotv", Film Romantici – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/film-romantici-pluto-tv/stream.m3u8
+
+#EXTINF:120 tvg-id="film-thriller-pluto-tv" tvg-name="Film Thriller – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/hIWMGRW.png" radio="" group-title="plutotv", Film Thriller – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/film-thriller-pluto-tv/stream.m3u8
+
+#EXTINF:125 tvg-id="film-classici-pluto-tv" tvg-name="Film Classici – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/jNyZPLV.png" radio="" group-title="plutotv", Film Classici – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/film-classici-pluto-tv/stream.m3u8
+
+#EXTINF:130 tvg-id="cinema-italiano-pluto-tv" tvg-name="Cinema Italiano  – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/drDX5DC.png" radio="" group-title="plutotv", Cinema Italiano  – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/cinema-italiano-pluto-tv/stream.m3u8
+
+#EXTINF:135 tvg-id="film-commedia-pluto-tv" tvg-name="Film Commedia – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/cSKaVHW.png" radio="" group-title="plutotv", Film Commedia – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/film-commedia-pluto-tv/stream.m3u8
+
+#EXTINF:140 tvg-id="film-drama-pluto-tv" tvg-name="Film Drama – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/X8jimKP.png" radio="" group-title="plutotv", Film Drama – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/film-drama-pluto-tv/stream.m3u8
+
+#EXTINF:200 tvg-id="crime-pluto-tv" tvg-name="Crime – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/WRMGIdb.png" radio="" group-title="plutotv", Crime – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/crime-pluto-tv/stream.m3u8
+
+#EXTINF:300 tvg-id="serie-pluto-tv" tvg-name="Serie – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/CHBhRZr.png" radio="" group-title="plutotv", Serie – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/serie-pluto-tv/stream.m3u8
+
+#EXTINF:305 tvg-id="serie-teen-pluto-tv" tvg-name="Serie Teen – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/pBmsfU7.png" radio="" group-title="plutotv", Serie Teen – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/serie-teen-pluto-tv/stream.m3u8
+
+#EXTINF:310 tvg-id="consulenze-illegali-pluto-tv" tvg-name="Consulenze illegali – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/AoOiYJX.png" radio="" group-title="plutotv", Consulenze illegali – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/consulenze-illegali-pluto-tv/stream.m3u8
+
+#EXTINF:315 tvg-id="le-sorelle-mcleod-pluto-tv" tvg-name="Le sorelle mcleod – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/P310ryf.png" radio="" group-title="plutotv", Le sorelle mcleod – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/le-sorelle-mcleod-pluto-tv/stream.m3u8
+
+#EXTINF:320 tvg-id="mutant-x-pluto-tv" tvg-name="Mutant X – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/SptYKFI.png" radio="" group-title="plutotv", Mutant X – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/mutant-x-pluto-tv/stream.m3u8
+
+#EXTINF:325 tvg-id="andromeda-pluto-tv" tvg-name="Andromeda – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/2HFhwX9.png" radio="" group-title="plutotv", Andromeda – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/andromeda-pluto-tv/stream.m3u8
+
+#EXTINF:400 tvg-id="scherzi-e-risate-pluto-tv" tvg-name="Scherzi e risate – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/kPxGzPI.png" radio="" group-title="plutotv", Scherzi e risate – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/scherzi-e-risate-pluto-tv/stream.m3u8
+
+#EXTINF:405 tvg-id="fail-army-pluto-tv" tvg-name="Fail army – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/SqRDd2U.png" radio="" group-title="plutotv", Fail army – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/fail-army-pluto-tv/stream.m3u8
+
+#EXTINF:410 tvg-id="the-pet-collective-pluto-tv" tvg-name="The pet collective – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/034PrSz.png" radio="" group-title="plutotv", The pet collective – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/the-pet-collective-pluto-tv/stream.m3u8
+
+#EXTINF:415 tvg-id="just-for-laughs-pluto-tv" tvg-name="Just for laughs – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/VvEz0XX.png" radio="" group-title="plutotv", Just for laughs – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/just-for-laughs-pluto-tv/stream.m3u8
+
+#EXTINF:500 tvg-id="ex-on-the-beach-pluto-tv" tvg-name="Ex on the beach – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/IONkdyk.png" radio="" group-title="plutotv", Ex on the beach – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/ex-on-the-beach-pluto-tv/stream.m3u8
+
+#EXTINF:505 tvg-id="catfish-pluto-tv" tvg-name="Catfish – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/KajHKoP.png" radio="" group-title="plutotv", Catfish – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/catfish-pluto-tv/stream.m3u8
+
+#EXTINF:510 tvg-id="anime-pluto-tv" tvg-name="Anime – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/lkBlZgl.png" radio="" group-title="plutotv", Anime – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/anime-pluto-tv/stream.m3u8
+
+#EXTINF:515 tvg-id="il-banco-dei-pugni-pluto-tv" tvg-name="Il banco dei pugni – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/2Lj1sdf.png" radio="" group-title="plutotv", Il banco dei pugni – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/il-banco-dei-pugni-pluto-tv/stream.m3u8
+
+#EXTINF:520 tvg-id="16-anni-e-incinta-pluto-tv" tvg-name="16 anni e incinta – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/4BHrbP7.png" radio="" group-title="plutotv", 16 anni e incinta – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/16-anni-e-incinta-pluto-tv/stream.m3u8
+
+#EXTINF:525 tvg-id="dating-pluto-tv" tvg-name="Dating – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/WF2sYcY.png" radio="" group-title="plutotv", Dating – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/dating-pluto-tv/stream.m3u8
+
+#EXTINF:530 tvg-id="family-pluto-tv" tvg-name="Family – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/Wux4qyT.png" radio="" group-title="plutotv", Family – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/family-pluto-tv/stream.m3u8
+
+#EXTINF:535 tvg-id="people-are-awesome-pluto-tv" tvg-name="People are awesome – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/jn0OeWv.png" radio="" group-title="plutotv", People are awesome – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/people-are-awesome-pluto-tv/stream.m3u8
+
+#EXTINF:540 tvg-id="celebration-pluto-tv" tvg-name="Celebration – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/DQL9vG8.png" radio="" group-title="plutotv", Celebration – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/celebration-pluto-tv/stream.m3u8
+
+#EXTINF:600 tvg-id="cucina-pluto-tv" tvg-name="Cucina – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/KsOhaOn.png" radio="" group-title="plutotv", Cucina – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/cucina-pluto-tv/stream.m3u8
+
+#EXTINF:605 tvg-id="real-life-pluto-tv" tvg-name="Real life – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/FpwqJYw.png" radio="" group-title="plutotv", Real life – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/real-life-pluto-tv/stream.m3u8
+
+#EXTINF:610 tvg-id="young-and-fabulous-pluto-tv" tvg-name="Young and fabulous – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/H61Q2oO.png" radio="" group-title="plutotv", Young and fabulous – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/young-and-fabulous-pluto-tv/stream.m3u8
+
+#EXTINF:615 tvg-id="fashion-pluto-tv" tvg-name="Fashion – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/cC0wrqG.png" radio="" group-title="plutotv", Fashion – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/fashion-pluto-tv/stream.m3u8
+
+#EXTINF:650 tvg-id="clubbing-tv-pluto-tv" tvg-name="Clubbing TV – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/D5U4unl.png" radio="" group-title="plutotv", Clubbing TV – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/clubbing-tv-pluto-tv/stream.m3u8
+
+#EXTINF:655 tvg-id="loupe-pluto-tv" tvg-name="Loupe – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/RApNs2W.png" radio="" group-title="plutotv", Loupe – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/loupe-pluto-tv/stream.m3u8
+
+#EXTINF:660 tvg-id="qwest-jazzbeyond-pluto-tv" tvg-name="Qwest Jazz&Beyond – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/Ch2qOA4.png" radio="" group-title="plutotv", Qwest Jazz&Beyond – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/qwest-jazzbeyond-pluto-tv/stream.m3u8
+
+#EXTINF:700 tvg-id="sport-pluto-tv" tvg-name="Sport – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/o2psAYW.png" radio="" group-title="plutotv", Sport – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/sport-pluto-tv/stream.m3u8
+
+#EXTINF:705 tvg-id="ign-pluto-tv" tvg-name="IGN – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/9SsTKJu.png" radio="" group-title="plutotv", IGN – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/ign-pluto-tv/stream.m3u8
+
+#EXTINF:710 tvg-id="world-poker-tour-pluto-tv" tvg-name="World poker tour – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/AF1ON8u.png" radio="" group-title="plutotv", World poker tour – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/world-poker-tour-pluto-tv/stream.m3u8
+
+#EXTINF:715 tvg-id="maradona-sin-cortes-pluto-tv" tvg-name="Maradona, sin cortes – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/1BqLYel.png" radio="" group-title="plutotv", Maradona, sin cortes – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/maradona-sin-cortes-pluto-tv/stream.m3u8
+
+#EXTINF:720 tvg-id="fuel-tv-pluto-tv" tvg-name="FUEL TV – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/sfL6NXb.png" radio="" group-title="plutotv", FUEL TV – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/fuel-tv-pluto-tv/stream.m3u8
+
+#EXTINF:800 tvg-id="super-spongebob-pluto-tv" tvg-name="Super! Spongebob – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/vFiwODM.png" radio="" group-title="plutotv", Super! Spongebob – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/super-spongebob-pluto-tv/stream.m3u8
+
+#EXTINF:805 tvg-id="super-eroi-pluto-tv" tvg-name="Super! Eroi – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/gsX9A5b.png" radio="" group-title="plutotv", Super! Eroi – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/super-eroi-pluto-tv/stream.m3u8
+
+#EXTINF:810 tvg-id="super-icarly-pluto-tv" tvg-name="Super! Icarly – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/Mhl252U.png" radio="" group-title="plutotv", Super! Icarly – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/super-icarly-pluto-tv/stream.m3u8
+
+#EXTINF:815 tvg-id="super-pop-pluto-tv" tvg-name="Super! POP – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/jlz31HP.png" radio="" group-title="plutotv", Super! POP – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/super-pop-pluto-tv/stream.m3u8
+
+#EXTINF:820 tvg-id="super-star-pluto-tv" tvg-name="Super! Star – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/YLtqPkF.png" radio="" group-title="plutotv", Super! Star – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/super-star-pluto-tv/stream.m3u8
+
+#EXTINF:900 tvg-id="documentari-pluto-tv" tvg-name="Documentari – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/0jYrODf.png" radio="" group-title="plutotv", Documentari – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/documentari-pluto-tv/stream.m3u8
+
+#EXTINF:905 tvg-id="natura-pluto-tv" tvg-name="Natura – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/Pc4gx12.png" radio="" group-title="plutotv", Natura – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/natura-pluto-tv/stream.m3u8
+
+#EXTINF:910 tvg-id="naturescape-pluto-tv" tvg-name="Naturescape – Pluto TV" tvg-shift="" tvg-logo="https://i.imgur.com/CGB6qiV.png" radio="" group-title="plutotv", Naturescape – Pluto TV
+https://tvit.leicaflorianrobert.dev/plutotv/naturescape-pluto-tv/stream.m3u8
